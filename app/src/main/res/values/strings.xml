@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectCapstone</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_detection">Deteksi</string>
+    <string name="title_location">TPI</string>
+    <string name="title_profile">Profil</string>
+    <string name="tab_text_1">Pesanan</string>
+    <string name="tab_text_2">Riwayat Pesanan</string>
+    <string name="user_name">Budi Prasetya</string>
+    <string name="user_email">budi77@gmail.com</string>
+    <string name="user_phone">085308090120</string>
+</resources>
