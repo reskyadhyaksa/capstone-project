@@ -9,4 +9,8 @@
     <string name="user_name">Budi Prasetya</string>
     <string name="user_email">budi77@gmail.com</string>
     <string name="user_phone">085308090120</string>
+    <string name="dummy_product_desc">Nama Ikan: Gabus\n\n
+        Kesegaran Ikan: Segar(90%)\n\n
+        Nutrisi Ikan : \n
+        \n• Kalori: 80 kkal.\n• Protein: 16,2 gram.\n• Lemak: 0,5 gram.\n• Karbohidrat: 2,6 gram.\n• Serat: 0,0 gram.\n• Kalsium: 170 mg.\n• Fosfor: 139 mg.\n• Zat besi: 0,1 mg.</string>
 </resources>
